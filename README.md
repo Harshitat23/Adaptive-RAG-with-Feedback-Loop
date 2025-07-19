@@ -31,13 +31,17 @@ Adaptive_RAG_with_feedback_loop.ipynb
 # 🚀 Features
 
 ✅ Retrieval‑Augmented Generation (RAG)
+
   • Retrieves top‑k documents from a vector store using cosine similarity.
 
 ✅ Feedback Loop
+
   • Stores user feedback (query, response, corrections).
+  
   • Integrates relevant past feedback to refine new responses.
 
 ✅ Adaptive Behavior
+
   • Refines answers over time as more feedback is collected.
 
 # 🛠 Future Improvements
